@@ -1,0 +1,14 @@
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\bin\Debug\net9.0\HelloDevOps.exe
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\bin\Debug\net9.0\HelloDevOps.deps.json
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\bin\Debug\net9.0\HelloDevOps.runtimeconfig.json
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\bin\Debug\net9.0\HelloDevOps.dll
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\bin\Debug\net9.0\HelloDevOps.pdb
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\obj\Debug\net9.0\HelloDevOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\obj\Debug\net9.0\HelloDevOps.AssemblyInfoInputs.cache
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\obj\Debug\net9.0\HelloDevOps.AssemblyInfo.cs
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\obj\Debug\net9.0\HelloDevOps.csproj.CoreCompileInputs.cache
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\obj\Debug\net9.0\HelloDevOps.dll
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\obj\Debug\net9.0\refint\HelloDevOps.dll
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\obj\Debug\net9.0\HelloDevOps.pdb
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\obj\Debug\net9.0\HelloDevOps.genruntimeconfig.cache
+C:\client\prashant  dhawalkar\repository\AgileDemoProjectDay21\HelloDevOps\obj\Debug\net9.0\ref\HelloDevOps.dll
